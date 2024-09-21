@@ -1,8 +1,8 @@
 class KpDiff < Formula
   desc "CLI utility to diff KeePass database"
   homepage "https://github.com/aivanovski/kp-diff"
-  url "https://github.com/aivanovski/kp-diff/releases/download/0.6.0/kp-diff.jar"
-  sha256 "b655e2c02cae9d69e73ea9313aeae10162d1fcd85be9ca5de323e93f7a4a8a91"
+  url "https://github.com/aivanovski/kp-diff/releases/download/0.7.1/kp-diff.jar"
+  sha256 "5cd581b45ccebb28fdc280900dfda68783696e1f534d893630ea3acb1a52955e"
   license "Apache-2.0"
 
   depends_on "openjdk"
